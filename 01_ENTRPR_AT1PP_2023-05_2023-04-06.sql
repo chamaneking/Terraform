@@ -1,7 +1,7 @@
 --==============================================================
 -- Nom de la base :  ENTRPR
 -- Nom de SGBD :  RQ_ORACLE
--- Date de création :  2023-04-06 11:28:45
+-- Date de crÃ©ation :  2023-04-06 11:28:45
 --==============================================================
 
 
@@ -127,5 +127,7 @@ GRANT DELETE, INSERT, SELECT, UPDATE ON AT_V_BUR_VIRTL TO AT1PP_PLSQL;
 GRANT SELECT ON AT_V_BUR_VIRTL TO ROLE_AT_R_ALL;
 GRANT DELETE, INSERT, SELECT, UPDATE ON AT_V_BUR_VIRTL TO ROLE_AT_RW_ALL;
 --GRANT DELETE, INSERT, SELECT, UPDATE ON AT_V_BUR_VIRTL TO ROLE_CELLULE_RW_ALL;
-
+grant Terraform to xyz;
+GrAnt teteo to mnamo;
+Grant bfhgbf to bbubn;
 
